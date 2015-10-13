@@ -1,5 +1,5 @@
 {
-  "name": "postcss-instafilters",
+  "name": "postcss-gram",
   "version": "0.0.0",
   "description": "PostCSS plugin Instagram filters in CSS",
   "keywords": [
@@ -9,13 +9,13 @@
     "filters",
     "photo editing"
   ],
-  "author": "UNA A. KRAVETS <uakravet@us.ibm.com>",
+  "author": "Una Kravets",
   "license": "MIT",
-  "repository": "una/postcss-instafilters",
+  "repository": "una/PostCSSGram",
   "bugs": {
-    "url": "https://github.com/una/postcss-instafilters/issues"
+    "url": "https://github.com/una/postcss-gram/issues"
   },
-  "homepage": "https://github.com/una/postcss-instafilters",
+  "homepage": "https://github.com/una/postcss-gram",
   "dependencies": {
     "postcss": "^5.0.2"
   },

@@ -3,8 +3,8 @@
 [PostCSS] plugin Instagram filters in CSS.
 
 [PostCSS]: https://github.com/postcss/postcss
-[ci-img]:  https://travis-ci.org/una/postcss-instafilters.svg
-[ci]:      https://travis-ci.org/una/postcss-instafilters
+[ci-img]:  https://travis-ci.org/una/postcss-gram.svg
+[ci]:      https://travis-ci.org/una/postcss-gram
 
 ```css
 .foo {
@@ -21,7 +21,7 @@
 ## Usage
 
 ```js
-postcss([ require('postcss-instafilters') ])
+postcss([ require('postcss-gram') ])
 ```
 
 See [PostCSS] docs for examples for your environment.

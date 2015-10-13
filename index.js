@@ -1,6 +1,6 @@
 var postcss = require('postcss');
 
-module.exports = postcss.plugin('postcss-instafilters', function (opts) {
+module.exports = postcss.plugin('postcss-gram', function (opts) {
     opts = opts || {};
 
     // Work with options here
